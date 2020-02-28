@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <string.h>
 
-#define ARRAY_SIZE 100
+#define ARRAY_SIZE 1000
 
 typedef struct unicode {
 	int count;
